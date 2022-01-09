@@ -6,7 +6,7 @@
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 
-![Ideen's GitHub stats](https://github-readme-stats.vercel.app/api?username=ideens&show_icons=true&theme=vue)
+![Ideen's GitHub stats](https://github-readme-stats.vercel.app/api?username=ideens&show_icons=true&theme=nord)
 
 <h3 align="left">Contact Me:</h3>
 <a href="https://www.linkedin.com/in/ideensanei/"><img src="https://img.shields.io/badge/LinkedIn-ideensanei-5175c4?logo=linkedIn&logoColor=white" alt="LinkedIn - ideensanei"></a>
