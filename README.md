@@ -1,4 +1,4 @@
-<h1> Hi! I'm Ideen
+<h1> Hi, I'm Ideen!
 
 
 <h3 align="left">Contact Me:</h3>
